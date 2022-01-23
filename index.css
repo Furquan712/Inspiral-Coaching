@@ -138,7 +138,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(../images/home-bg.jpg) no-repeat;
+    background:url(./images/home-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -455,7 +455,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(../images/home-bg.jpg) no-repeat;
+    background:url(./images/home-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
